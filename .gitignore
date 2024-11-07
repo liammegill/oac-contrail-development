@@ -1,1 +1,7 @@
 /oac
+
+/data/*.nc
+/data/processed
+/data/repository
+
+/notebooks/.ipynb_checkpoints
