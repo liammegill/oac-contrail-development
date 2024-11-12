@@ -1,2 +1,2 @@
 # oac-contrail-development
-Development of the OpenAirClim Contrail Module
+Development of the [OpenAirClim](https://github.com/dlr-pa/oac) Contrail Module. 
