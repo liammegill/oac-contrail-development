@@ -1,11 +1,9 @@
 """Demonstration of OpenAirClim simulation run"""
 
-# if you have not added the oac folder to your PATH, then you also need to
-# import sys and append to PATH using sys.path.append(`.../oac`)
 import os
 import shutil
 import sys
-sys.path.append("D:/no-backup/oac-contrail-development/oac")
+sys.path.append(".../oac")  # change to OpenAirClim directory
 import openairclim as oac
 
 # change directory to match current file
