@@ -1,0 +1,13 @@
+read_config ln. 231 in check_against_template INFO: Get default value for: responses CO2 rf method 
+read_config ln. 509 in check_metrics_time WARNING: Last year in metrics time with t_0 = 1940 and H = 51 is earlier than last year in time range.
+read_config ln. 160 in check_config INFO: Configuration file checked.
+read_config ln. 353 in create_output_dir INFO: Create new output directory results/ahead/hist_h2c/
+read_netcdf ln. 98 in open_inventories WARNING: Longitude values have been automatically updated to be between 0 and 360 degrees to match pre-calculated data.
+read_netcdf ln. 173 in open_inventories INFO: Emission inventories openend, attribute sections and time constraints checked successfully.
+calc_response ln. 127 in calc_resp_all WARNING: O3 response surface is not validated!
+main ln. 180 in run WARNING: CH4 response surface is not validated!
+calc_response ln. 169 in calc_resp_sub WARNING: PMO response not validated!
+main ln. 281 in run INFO: Execution time: 1.8040165901184082 sec
+main ln. 284 in run WARNING: OpenAirClim is currently in development phase.
+The computed output is not for scientific purposes until release of our publication.
+Amongst others, the climate impact of longer species lifetimes in the stratosphere is not considered.
